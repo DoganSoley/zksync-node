@@ -9,3 +9,18 @@ Ben sunucu olarak hetzner'den ax42'ye kurdum ücreti saatlik olarak kestiği iç
 
 kullandığım sunucu link : https://www.hetzner.com/dedicated-rootserver/ax42/
 
+Sunucuya terminalden bağlandıktan sonra sırasıyla :
+
+Docker Kurulumu
+```
+sudo apt update
+```
+```
+sudo apt install docker.io
+```
+```
+sudo systemctl status docker
+```
+```
+docker --version
+```
