@@ -96,12 +96,13 @@ En son bittikten sonra bu kod ile logları kontrol edebilirsiniz :
 ```
 docker logs -f --tail 100 docker-compose-examples_external-node_1
 ```
+CTRL + C ile geri gelebilirsiniz veya direkt terminali kapatabilirsiniz.
 
 Sync olması ortalama 10-15 saat sürüyor loglar aktığı sürece bir problem yok demektir en son sync olduktan sonra bu şekilde görünecek :
 
 ![image](https://github.com/DoganSoley/zksync-node/assets/110679236/1968088f-2079-44a4-a129-087e12949db6)
 
-En son bittikten sonra da metamaska aşağıdaki fotoğrafdaki gibi ekleyin sunucuipadresi yazan kısma kendi sunucu ip adresinizi yazın.
+En son sync olduktan sonra da metamaska aşağıdaki fotoğrafdaki gibi ekleyin sunucuipadresi yazan kısma kendi sunucu ip adresinizi yazın.
 
 Ağ Adı : İstediğinizi yazabilirsiniz
 
