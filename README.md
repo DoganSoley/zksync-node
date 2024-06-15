@@ -9,9 +9,11 @@
 
 Ubuntu version 20.04
 
-Ben sunucu olarak hetzner'den ax42'ye kurdum şuanda kurulum ücreti yok ve ücreti saatlik olarak kestiği için 2-3 günlük bi kullanımda 3-5$ gibi birşeye denk gelecek işim bittiğinde sunucuyu sileceğim.
+Ben sunucu olarak hetzner'den ax42'ye kurdum kurulum ücreti yoktu fakat değişmiş olabilir kurulum ücretine dikkat edin ve ücreti saatlik olarak kestiği için 2-3 günlük bi kullanımda 3-5$ gibi birşeye denk gelecek işim bittiğinde sunucuyu sileceğim.
 
 kullandığım sunucu link : https://www.hetzner.com/dedicated-rootserver/ax42/
+
+eğer kurulum ücreti çıkarsa alternatif olarak hetznerden cloud CX52 veya CPX51 kurabilirsiniz.
 
 Sunucuya terminalden bağlandıktan sonra sırasıyla :
 
