@@ -26,12 +26,6 @@ sudo apt update
 ```
 sudo apt install docker.io
 ```
-```
-sudo systemctl status docker
-```
-```
-docker --version
-```
 
 Docker Compose Kurulumu
 ```
@@ -40,16 +34,14 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-
 ```
 sudo chmod +x /usr/local/bin/docker-compose
 ```
-```
-docker-compose --version
-```
+
 
 Git Kurulumu
 ```
 sudo apt install git
 ```
 ```
-git clone https://github.com/matter-labs/zksync-era.git
+git clone https://github.com/codeesura/zksync-era
 ```
 Kurulum bittikten sonra dosya dizinine gidiyoruz
 ```
