@@ -69,6 +69,8 @@ nano zksync-era/docs/guides/external-node/docker-compose-examples/mainnet-extern
 Bu kodu yazıktan sonra karşısına çıkan ekranda klavyenin yön tuşlarıyla aşağıya inip fotoğrafta görünen ports : kısmını bu şekilde düzenleyin
 sizde başında 127.0.0.1 yazıyordur onları silip fotoğrafdaki gibi yapın.
 
+![nodezksync](https://github.com/DoganSoley/zksync-node/assets/110679236/67b9cfd7-fb37-43de-88c3-a310a993d9f3)
+
 kaydedip çıkmak için ise CTRL + X + ENTER yapın.
 
 Daha sonra tekrar zksync dosya dizinine gidip nodeyi durdurup tekrar çalıştırın sırasıyla :
