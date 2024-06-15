@@ -1,1 +1,1 @@
-#Zksync Full Node Sistem Gereksinimleri
+# Zksync Full Node Sistem Gereksinimleri
