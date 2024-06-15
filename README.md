@@ -1,4 +1,6 @@
 # Zksync Full Node Sistem Gereksinimleri
+![image](https://github.com/DoganSoley/zksync-node/assets/110679236/9d2fa197-e32a-4ac1-a18e-10c9b067f5cb)
+
 32GB RAM 
 
 500GB SSD 
