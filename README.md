@@ -7,6 +7,8 @@
 
 320-360GB SSD'de de çalışıyor ama kurabiliyorsanız 500GB'a kurun
 
+Ubuntu version 20.04
+
 Ben sunucu olarak hetzner'den ax42'ye kurdum şuanda kurulum ücreti yok ve ücreti saatlik olarak kestiği için 2-3 günlük bi kullanımda 3-5$ gibi birşeye denk gelecek işim bittiğinde sunucuyu sileceğim.
 
 kullandığım sunucu link : https://www.hetzner.com/dedicated-rootserver/ax42/
