@@ -17,6 +17,8 @@ eğer kurulum ücreti çıkarsa alternatif olarak hetznerden cloud 360GB'lık CP
 
 ilk defa sunucu alacaksanız kafanız karışmasın clouddan 360GB'lık CPX51 alın direkt.
 
+takıldığınız yer olursa telegram grubumuza gelip destek alabilirsiniz : https://t.me/BringMeSohbet
+
 Sunucuya terminalden bağlandıktan sonra sırasıyla :
 
 Docker Kurulumu
