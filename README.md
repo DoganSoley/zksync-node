@@ -13,7 +13,9 @@ Ben sunucu olarak hetzner'den ax42'ye kurdum kurulum ücreti yoktu fakat değiş
 
 kullandığım sunucu link : https://www.hetzner.com/dedicated-rootserver/ax42/
 
-eğer kurulum ücreti çıkarsa alternatif olarak hetznerden cloud CX52 veya CPX51 kurabilirsiniz.
+eğer kurulum ücreti çıkarsa alternatif olarak hetznerden cloud 360GB'lık CPX51 kurabilirsiniz.
+
+ilk defa sunucu alacaksanız kafanız karışmasın clouddan 360GB'lık CPX51 alın direkt.
 
 Sunucuya terminalden bağlandıktan sonra sırasıyla :
 
