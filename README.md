@@ -104,7 +104,12 @@ Sync olması ortalama 10-15 saat sürüyor loglar aktığı sürece bir problem 
 En son bittikten sonra da metamaska aşağıdaki fotoğrafdaki gibi ekleyin sunucuipadresi yazan kısma kendi sunucu ip adresinizi yazın.
 
 Ağ Adı : İstediğinizi yazabilirsiniz
+
 Yeni RPC URL adresi : http://sunucuipadresi:3060
+
 Zincir Kimliği : 324
+
 Para Birimi Sembolü : ETH
+
+
 ![image](https://github.com/DoganSoley/zksync-node/assets/110679236/4dbdbc5c-af68-4eff-bdd8-990c04f25481)
