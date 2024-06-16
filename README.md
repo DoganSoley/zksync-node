@@ -75,7 +75,7 @@ sizde başında 127.0.0.1 yazıyordur onları silip fotoğrafdaki gibi yapın.
 
 Port için CC : ArmutBey ve HoodRun teşekkürler.
 
-![nodezksync](https://github.com/DoganSoley/zksync-node/assets/110679236/67b9cfd7-fb37-43de-88c3-a310a993d9f3)
+![externalnode](https://github.com/DoganSoley/zksync-node/assets/110679236/e044241c-6e75-468e-97f7-c580746f49c3)
 
 kaydedip çıkmak için ise CTRL + X daha sonra Y yazıp ENTER yapın.
 
@@ -102,7 +102,7 @@ docker logs -f --tail 100 docker-compose-examples_external-node_1
 ```
 CTRL + C ile geri gelebilirsiniz veya direkt terminali kapatabilirsiniz.
 
-Sync olması ortalama 10-15 saat sürüyor loglar aktığı sürece bir problem yok demektir en son sync olduktan sonra bu şekilde görünecek :
+Sync olması ortalama 10 saat sürüyor loglar aktığı sürece bir problem yok demektir en son sync olduktan sonra bu şekilde görünecek :
 
 ![image](https://github.com/DoganSoley/zksync-node/assets/110679236/1968088f-2079-44a4-a129-087e12949db6)
 
